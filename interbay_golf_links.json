@@ -4,56 +4,59 @@
     {
       "hole": 1,
       "par": 4,
-      "latitude": 47.6412282,
-      "longitude": -122.3797227
+      "latitude": 47.6427898,
+      "longitude": -122.3789331
     },
     {
       "hole": 2,
       "par": 3,
-      "latitude": 47.6418227,
-      "longitude": -122.3793364
+      "latitude": 47.6420497,
+      "longitude": -122.3781008
     },
     {
       "hole": 3,
       "par": 3,
-      "latitude": 47.6424172,
-      "longitude": -122.3789501
+      "latitude": 47.6431391,
+      "longitude": -122.3777314
     },
     {
       "hole": 4,
       "par": 3,
-      "latitude": 47.6430116,
-      "longitude": -122.3785639
+      "latitude": 47.6421519,
+      "longitude": -122.3772926
     },
     {
       "hole": 5,
       "par": 3,
-      "latitude": 47.6436061,
-      "longitude": -122.3781776
+      "latitude": 47.641146,
+      "longitude": -122.3786225
     },
     {
       "hole": 6,
       "par": 3,
-      "latitude": 47.6442006,
-      "longitude": -122.3777913
+      "latitude": 47.6423732,
+      "longitude": -122.3797
     },
     {
       "hole": 7,
       "par": 3,
-      "latitude": 47.644795,
-      "longitude": -122.3774051
+      "latitude": 47.6441518,
+      "longitude": -122.3796234
     },
     {
       "hole": 8,
       "par": 3,
-      "latitude": 47.6453895,
-      "longitude": -122.3770188
+      "latitude": 47.645613,
+      "longitude": -122.3796257
     },
     {
       "hole": 9,
       "par": 3,
-      "latitude": 47.645984,
-      "longitude": -122.3766325
+      "latitude": 47.6456726,
+      "longitude": -122.3789295
     }
-  ]
+  ],
+  "city": "Seattle",
+  "state": "WA"
 }
+
