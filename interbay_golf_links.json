@@ -1,0 +1,59 @@
+{
+  "courseName": "Interbay Golf Links",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.6412282,
+      "longitude": -122.3797227
+    },
+    {
+      "hole": 2,
+      "par": 3,
+      "latitude": 47.6418227,
+      "longitude": -122.3793364
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 47.6424172,
+      "longitude": -122.3789501
+    },
+    {
+      "hole": 4,
+      "par": 3,
+      "latitude": 47.6430116,
+      "longitude": -122.3785639
+    },
+    {
+      "hole": 5,
+      "par": 3,
+      "latitude": 47.6436061,
+      "longitude": -122.3781776
+    },
+    {
+      "hole": 6,
+      "par": 3,
+      "latitude": 47.6442006,
+      "longitude": -122.3777913
+    },
+    {
+      "hole": 7,
+      "par": 3,
+      "latitude": 47.644795,
+      "longitude": -122.3774051
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.6453895,
+      "longitude": -122.3770188
+    },
+    {
+      "hole": 9,
+      "par": 3,
+      "latitude": 47.645984,
+      "longitude": -122.3766325
+    }
+  ]
+}

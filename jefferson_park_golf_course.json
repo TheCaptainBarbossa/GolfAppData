@@ -1,0 +1,113 @@
+{
+  "courseName": "Jefferson Park Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 3,
+      "latitude": 47.5616041,
+      "longitude": -122.3077718
+    },
+    {
+      "hole": 2,
+      "par": 3,
+      "latitude": 47.5621898,
+      "longitude": -122.3074311
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 47.5627756,
+      "longitude": -122.3070903
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.5633614,
+      "longitude": -122.3067495
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.5639471,
+      "longitude": -122.3064088
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.5645329,
+      "longitude": -122.306068
+    },
+    {
+      "hole": 7,
+      "par": 3,
+      "latitude": 47.5651187,
+      "longitude": -122.3057272
+    },
+    {
+      "hole": 8,
+      "par": 5,
+      "latitude": 47.5657044,
+      "longitude": -122.3053865
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.5662902,
+      "longitude": -122.3050457
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.566876,
+      "longitude": -122.3047049
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.5674617,
+      "longitude": -122.3043641
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 47.5680475,
+      "longitude": -122.3040234
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.5686333,
+      "longitude": -122.3036826
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.5692191,
+      "longitude": -122.3033418
+    },
+    {
+      "hole": 15,
+      "par": 3,
+      "latitude": 47.5698048,
+      "longitude": -122.3030011
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 47.5703906,
+      "longitude": -122.3026603
+    },
+    {
+      "hole": 17,
+      "par": 5,
+      "latitude": 47.5709764,
+      "longitude": -122.3023195
+    },
+    {
+      "hole": 18,
+      "par": 5,
+      "latitude": 47.5715621,
+      "longitude": -122.3019788
+    }
+  ]
+}

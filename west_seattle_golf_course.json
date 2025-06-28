@@ -1,0 +1,113 @@
+{
+  "courseName": "West Seattle Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 5,
+      "latitude": 47.5541265,
+      "longitude": -122.3741624
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.5547286,
+      "longitude": -122.3737069
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 47.5553307,
+      "longitude": -122.3732514
+    },
+    {
+      "hole": 4,
+      "par": 5,
+      "latitude": 47.5559329,
+      "longitude": -122.3727959
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.556535,
+      "longitude": -122.3723404
+    },
+    {
+      "hole": 6,
+      "par": 3,
+      "latitude": 47.5571371,
+      "longitude": -122.3718849
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.5577393,
+      "longitude": -122.3714293
+    },
+    {
+      "hole": 8,
+      "par": 4,
+      "latitude": 47.5583414,
+      "longitude": -122.3709738
+    },
+    {
+      "hole": 9,
+      "par": 5,
+      "latitude": 47.5589435,
+      "longitude": -122.3705183
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.5595457,
+      "longitude": -122.3700628
+    },
+    {
+      "hole": 11,
+      "par": 3,
+      "latitude": 47.5601478,
+      "longitude": -122.3696073
+    },
+    {
+      "hole": 12,
+      "par": 5,
+      "latitude": 47.5607499,
+      "longitude": -122.3691518
+    },
+    {
+      "hole": 13,
+      "par": 3,
+      "latitude": 47.5613521,
+      "longitude": -122.3686962
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.5619542,
+      "longitude": -122.3682407
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.5625563,
+      "longitude": -122.3677852
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 47.5631585,
+      "longitude": -122.3673297
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.5637606,
+      "longitude": -122.3668742
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.5643627,
+      "longitude": -122.3664187
+    }
+  ]
+}
