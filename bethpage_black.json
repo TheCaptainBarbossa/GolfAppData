@@ -1,0 +1,115 @@
+{
+  "courseName": "Bethpage Black",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 40.7440262,
+      "longitude": -73.4529477
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 40.7453664,
+      "longitude": -73.4487284
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 40.7456616,
+      "longitude": -73.4469926
+    },
+    {
+      "hole": 4,
+      "par": 5,
+      "latitude": 40.7466898,
+      "longitude": -73.4452207
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 40.7498402,
+      "longitude": -73.4437026
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 40.7510764,
+      "longitude": -73.4413262
+    },
+    {
+      "hole": 7,
+      "par": 5,
+      "latitude": 40.7513484,
+      "longitude": -73.4381537
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 40.7536404,
+      "longitude": -73.4358722
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 40.7541521,
+      "longitude": -73.4368793
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 40.7545155,
+      "longitude": -73.4402688
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 40.7548515,
+      "longitude": -73.4411011
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 40.7522575,
+      "longitude": -73.4419936
+    },
+    {
+      "hole": 13,
+      "par": 5,
+      "latitude": 40.7502089,
+      "longitude": -73.4459812
+    },
+    {
+      "hole": 14,
+      "par": 3,
+      "latitude": 40.7474467,
+      "longitude": -73.4486570
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 40.7477660,
+      "longitude": -73.4513904
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 40.7480503,
+      "longitude": -73.4522015
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 40.7459772,
+      "longitude": -73.4519547
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 40.7450961,
+      "longitude": -73.4542245
+    }
+  ],
+  "city": "Old Bethpage",
+  "state": "NY"
+}

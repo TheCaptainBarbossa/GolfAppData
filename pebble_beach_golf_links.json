@@ -1,0 +1,115 @@
+{
+  "courseName": "Pebble Beach Golf Links",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 36.5699982,
+      "longitude": -121.9478351
+    },
+    {
+      "hole": 2,
+      "par": 5,
+      "latitude": 36.5699467,
+      "longitude": -121.9445262
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 36.5683156,
+      "longitude": -121.9429033
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 36.5667940,
+      "longitude": -121.9424293
+    },
+    {
+      "hole": 5,
+      "par": 3,
+      "latitude": 36.5656724,
+      "longitude": -121.9399739
+    },
+    {
+      "hole": 6,
+      "par": 5,
+      "latitude": 36.5641142,
+      "longitude": -121.9389659
+    },
+    {
+      "hole": 7,
+      "par": 3,
+      "latitude": 36.5617838,
+      "longitude": -121.9404397
+    },
+    {
+      "hole": 8,
+      "par": 4,
+      "latitude": 36.5621834,
+      "longitude": -121.9383535
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 36.5620173,
+      "longitude": -121.9349265
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 36.5598187,
+      "longitude": -121.9324161
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 36.5593060,
+      "longitude": -121.9303172
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 36.5612445,
+      "longitude": -121.9300348
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 36.5620684,
+      "longitude": -121.9329105
+    },
+    {
+      "hole": 14,
+      "par": 5,
+      "latitude": 36.5651002,
+      "longitude": -121.9363392
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 36.5681315,
+      "longitude": -121.9385336
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 36.5687560,
+      "longitude": -121.9415934
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 36.5664681,
+      "longitude": -121.9445137
+    },
+    {
+      "hole": 18,
+      "par": 5,
+      "latitude": 36.5666392,
+      "longitude": -121.9474156
+    }
+  ],
+  "city": "Pebble Beach",
+  "state": "CA"
+}
