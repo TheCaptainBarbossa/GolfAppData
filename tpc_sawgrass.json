@@ -1,0 +1,115 @@
+{
+  "courseName": "TPC Sawgrass",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 30.2018968,
+      "longitude": -81.3951446
+    },
+    {
+      "hole": 2,
+      "par": 5,
+      "latitude": 30.2020959,
+      "longitude": -81.3960262
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 30.1996056,
+      "longitude": -81.3974527
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 30.1976524,
+      "longitude": -81.3985096
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 30.1947504,
+      "longitude": -81.3967381
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 30.1925611,
+      "longitude": -81.3963905
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 30.1918744,
+      "longitude": -81.3957035
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 30.1922452,
+      "longitude": -81.3930135
+    },
+    {
+      "hole": 9,
+      "par": 5,
+      "latitude": 30.1950034,
+      "longitude": -81.3934618
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 30.1997391,
+      "longitude": -81.3905576
+    },
+    {
+      "hole": 11,
+      "par": 5,
+      "latitude": 30.1992598,
+      "longitude": -81.3885423
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 30.1984606,
+      "longitude": -81.3877461
+    },
+    {
+      "hole": 13,
+      "par": 3,
+      "latitude": 30.2004635,
+      "longitude": -81.3865537
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 30.1976612,
+      "longitude": -81.3869561
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 30.1964296,
+      "longitude": -81.3892363
+    },
+    {
+      "hole": 16,
+      "par": 5,
+      "latitude": 30.1962507,
+      "longitude": -81.3907552
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 30.1941479,
+      "longitude": -81.3905218
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 30.1961242,
+      "longitude": -81.3928445
+    }
+  ],
+  "city": "Ponte Vedra Beach",
+  "state": "FL"
+}

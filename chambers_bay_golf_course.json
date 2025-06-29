@@ -1,0 +1,115 @@
+{
+  "courseName": "Chambers Bay Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.2035331,
+      "longitude": -122.5762151
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.2060465,
+      "longitude": -122.5791796
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.2081201,
+      "longitude": -122.5780313
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.2091851,
+      "longitude": -122.5732268
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.2083217,
+      "longitude": -122.5727342
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.2075024,
+      "longitude": -122.5755612
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.2063756,
+      "longitude": -122.5726329
+    },
+    {
+      "hole": 8,
+      "par": 4,
+      "latitude": 47.2043477,
+      "longitude": -122.5702268
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.2013999,
+      "longitude": -122.5711452
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.2044818,
+      "longitude": -122.5754243
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.2070905,
+      "longitude": -122.5774353
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.2108522,
+      "longitude": -122.5764394
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.2110720,
+      "longitude": -122.5725966
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.2101729,
+      "longitude": -122.5723363
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.2097232,
+      "longitude": -122.5780164
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 47.2075208,
+      "longitude": -122.5798258
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.2045200,
+      "longitude": -122.5806834
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.2028956,
+      "longitude": -122.5777375
+    }
+  ],
+  "city": "University Place",
+  "state": "WA"
+}
