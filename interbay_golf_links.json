@@ -1,62 +1,61 @@
 {
   "courseName": "Interbay Golf Links",
+  "city": "Seattle",
+  "state": "WA",
   "holes": [
     {
       "hole": 1,
       "par": 4,
-      "latitude": 47.6427898,
-      "longitude": -122.3789331
+      "latitude": 47.641616511068946,
+      "longitude": -122.37904250621797
     },
     {
       "hole": 2,
       "par": 3,
-      "latitude": 47.6420497,
-      "longitude": -122.3781008
+      "latitude": 47.64263649778602,
+      "longitude": -122.37787306308748
     },
     {
       "hole": 3,
       "par": 3,
-      "latitude": 47.6431391,
-      "longitude": -122.3777314
+      "latitude": 47.64295117051946,
+      "longitude": -122.37720251083375
     },
     {
       "hole": 4,
       "par": 3,
-      "latitude": 47.6421519,
-      "longitude": -122.3772926
+      "latitude": 47.64171055323088,
+      "longitude": -122.37746536731721
     },
     {
       "hole": 5,
       "par": 3,
-      "latitude": 47.641146,
-      "longitude": -122.3786225
+      "latitude": 47.641186085167185,
+      "longitude": -122.37941801548006
     },
     {
       "hole": 6,
       "par": 3,
-      "latitude": 47.6423732,
-      "longitude": -122.3797
+      "latitude": 47.643105898084094,
+      "longitude": -122.37961649894714
     },
     {
       "hole": 7,
       "par": 3,
-      "latitude": 47.6441518,
-      "longitude": -122.3796234
+      "latitude": 47.64482751714335,
+      "longitude": -122.37956821918489
     },
     {
       "hole": 8,
       "par": 3,
-      "latitude": 47.645613,
-      "longitude": -122.3796257
+      "latitude": 47.64613316099117,
+      "longitude": -122.37955749034883
     },
     {
       "hole": 9,
       "par": 3,
-      "latitude": 47.6456726,
-      "longitude": -122.3789295
+      "latitude": 47.64515664373823,
+      "longitude": -122.37903714179994
     }
-  ],
-  "city": "Seattle",
-  "state": "WA"
+  ]
 }
-
