@@ -2,7 +2,7 @@
   "courseName": "Jefferson Park Golf Course",
   "city": "Seattle",
   "state": "WA",
-  "exportDate": "2025-06-29T22:20:06.615Z",
+  "exportDate": "2025-07-11T06:17:25.472Z",
   "holes": [
     {
       "hole": 1,
@@ -184,5 +184,8 @@
       "latitude": 47.57005294314101,
       "longitude": -122.3071324825287
     }
-  ]
+  ],
+  "architect": "Thomas Bendelow",
+  "yearOpened": 1915,
+  "rankings": []
 }

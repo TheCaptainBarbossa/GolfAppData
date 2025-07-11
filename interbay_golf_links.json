@@ -2,7 +2,7 @@
   "courseName": "Interbay Golf Links",
   "city": "Seattle",
   "state": "WA",
-  "exportDate": "2025-06-29T21:37:08.644Z",
+  "exportDate": "2025-07-11T06:17:25.472Z",
   "holes": [
     {
       "hole": 1,
@@ -94,5 +94,8 @@
       "latitude": 47.64563866436268,
       "longitude": -122.37893521785738
     }
-  ]
+  ],
+  "architect": "Unknown",
+  "yearOpened": 1997,
+  "rankings": []
 }
