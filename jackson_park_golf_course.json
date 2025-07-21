@@ -116,6 +116,24 @@
   "architect": "Unknown",
   "yearOpened": 1928,
   "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 47.9,
+      "precipIn": 0.09
+    },
+    "summer": {
+      "tempF": 63.3,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 51.6,
+      "precipIn": 0.12
+    },
+    "winter": {
+      "tempF": 41.5,
+      "precipIn": 0.17
+    }
+  },
   "contact": {
     "address": "1000 NE 135th Street, Seattle, WA 98125",
     "phone": "(206) 363-4747",

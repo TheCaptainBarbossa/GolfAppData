@@ -83,12 +83,12 @@
       "hole": 14,
       "par": 3,
       "latitude": 40.7474467,
-      "longitude": -73.4486570
+      "longitude": -73.448657
     },
     {
       "hole": 15,
       "par": 4,
-      "latitude": 40.7477660,
+      "latitude": 40.747766,
       "longitude": -73.4513904
     },
     {
@@ -118,6 +118,24 @@
   "rankings": [
     "Top 100 Courses 2024"
   ],
+  "climate": {
+    "spring": {
+      "tempF": 51.0,
+      "precipIn": 0.14
+    },
+    "summer": {
+      "tempF": 71.4,
+      "precipIn": 0.18
+    },
+    "fall": {
+      "tempF": 56.5,
+      "precipIn": 0.16
+    },
+    "winter": {
+      "tempF": 40.2,
+      "precipIn": 0.17
+    }
+  },
   "contact": {
     "address": "99 Quaker Meeting House Rd, Farmingdale, NY 11735",
     "phone": "(516) 249-4040",

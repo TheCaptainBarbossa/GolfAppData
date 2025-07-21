@@ -188,6 +188,24 @@
   "architect": "Thomas Bendelow",
   "yearOpened": 1915,
   "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 48.0,
+      "precipIn": 0.12
+    },
+    "summer": {
+      "tempF": 64.8,
+      "precipIn": 0.04
+    },
+    "fall": {
+      "tempF": 51.7,
+      "precipIn": 0.15
+    },
+    "winter": {
+      "tempF": 41.2,
+      "precipIn": 0.19
+    }
+  },
   "contact": {
     "address": "4101 Beacon Ave. S, Seattle, WA 98108",
     "phone": "(206) 762-4513",

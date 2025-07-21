@@ -76,7 +76,7 @@
     {
       "hole": 13,
       "par": 4,
-      "latitude": 47.2110720,
+      "latitude": 47.211072,
       "longitude": -122.5725966
     },
     {
@@ -100,7 +100,7 @@
     {
       "hole": 17,
       "par": 4,
-      "latitude": 47.2045200,
+      "latitude": 47.20452,
       "longitude": -122.5806834
     },
     {
@@ -118,6 +118,24 @@
   "rankings": [
     "Top 100 Courses 2024"
   ],
+  "climate": {
+    "spring": {
+      "tempF": 49.4,
+      "precipIn": 0.1
+    },
+    "summer": {
+      "tempF": 65.9,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 52.9,
+      "precipIn": 0.14
+    },
+    "winter": {
+      "tempF": 42.4,
+      "precipIn": 0.17
+    }
+  },
   "contact": {
     "address": "6320 Grandview Drive West, University Place, WA 98467",
     "phone": "(253) 460-4653",

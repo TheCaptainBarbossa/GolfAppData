@@ -116,6 +116,24 @@
   "architect": "H. Chandler Egan",
   "yearOpened": 1940,
   "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 48.8,
+      "precipIn": 0.12
+    },
+    "summer": {
+      "tempF": 65.5,
+      "precipIn": 0.04
+    },
+    "fall": {
+      "tempF": 52.5,
+      "precipIn": 0.15
+    },
+    "winter": {
+      "tempF": 41.9,
+      "precipIn": 0.19
+    }
+  },
   "contact": {
     "address": "4470 35th Ave SW, Seattle, WA 98126",
     "phone": "(206) 935-5187",
