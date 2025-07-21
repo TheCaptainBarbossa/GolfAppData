@@ -115,5 +115,23 @@
   "exportDate": "2025-07-11T06:17:25.472Z",
   "architect": "H. Chandler Egan",
   "yearOpened": 1940,
-  "rankings": []
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 48.8,
+      "precipIn": 0.12
+    },
+    "summer": {
+      "tempF": 65.5,
+      "precipIn": 0.04
+    },
+    "fall": {
+      "tempF": 52.5,
+      "precipIn": 0.15
+    },
+    "winter": {
+      "tempF": 41.9,
+      "precipIn": 0.19
+    }
+  }
 }

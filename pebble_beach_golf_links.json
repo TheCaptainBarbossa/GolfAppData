@@ -22,7 +22,7 @@
     {
       "hole": 4,
       "par": 4,
-      "latitude": 36.5667940,
+      "latitude": 36.566794,
       "longitude": -121.9424293
     },
     {
@@ -64,7 +64,7 @@
     {
       "hole": 11,
       "par": 4,
-      "latitude": 36.5593060,
+      "latitude": 36.559306,
       "longitude": -121.9303172
     },
     {
@@ -94,7 +94,7 @@
     {
       "hole": 16,
       "par": 4,
-      "latitude": 36.5687560,
+      "latitude": 36.568756,
       "longitude": -121.9415934
     },
     {
@@ -117,5 +117,23 @@
   "yearOpened": 1919,
   "rankings": [
     "Top 100 Courses 2024"
-  ]
+  ],
+  "climate": {
+    "spring": {
+      "tempF": 52.0,
+      "precipIn": 0.11
+    },
+    "summer": {
+      "tempF": 58.5,
+      "precipIn": 0.01
+    },
+    "fall": {
+      "tempF": 59.7,
+      "precipIn": 0.04
+    },
+    "winter": {
+      "tempF": 52.2,
+      "precipIn": 0.22
+    }
+  }
 }

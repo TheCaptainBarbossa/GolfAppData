@@ -115,5 +115,23 @@
   "exportDate": "2025-07-11T06:17:25.472Z",
   "architect": "Unknown",
   "yearOpened": 1928,
-  "rankings": []
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 47.9,
+      "precipIn": 0.09
+    },
+    "summer": {
+      "tempF": 63.3,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 51.6,
+      "precipIn": 0.12
+    },
+    "winter": {
+      "tempF": 41.5,
+      "precipIn": 0.17
+    }
+  }
 }
