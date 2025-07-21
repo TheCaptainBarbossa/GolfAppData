@@ -187,5 +187,15 @@
   ],
   "architect": "Thomas Bendelow",
   "yearOpened": 1915,
-  "rankings": []
+  "rankings": [],
+  "contact": {
+    "address": "4101 Beacon Ave. S, Seattle, WA 98108",
+    "phone": "(206) 762-4513",
+    "website": "https://www.premiergc.com/-jefferson-park-golf-course"
+  },
+  "amenities": [
+    "pro shop",
+    "practice range",
+    "cafe"
+  ]
 }

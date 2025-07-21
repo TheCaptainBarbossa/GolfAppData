@@ -117,5 +117,15 @@
   "yearOpened": 1936,
   "rankings": [
     "Top 100 Courses 2024"
+  ],
+  "contact": {
+    "address": "99 Quaker Meeting House Rd, Farmingdale, NY 11735",
+    "phone": "(516) 249-4040",
+    "website": "https://www.bethpagegolfcourse.com"
+  },
+  "amenities": [
+    "pro shop",
+    "practice facilities",
+    "restaurant"
   ]
 }

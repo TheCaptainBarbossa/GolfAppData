@@ -115,5 +115,15 @@
   "exportDate": "2025-07-11T06:17:25.472Z",
   "architect": "Unknown",
   "yearOpened": 1928,
-  "rankings": []
+  "rankings": [],
+  "contact": {
+    "address": "1000 NE 135th Street, Seattle, WA 98125",
+    "phone": "(206) 363-4747",
+    "website": "https://www.premiergc.com/-jackson-park-golf-course"
+  },
+  "amenities": [
+    "pro shop",
+    "practice range",
+    "cafe"
+  ]
 }

@@ -97,5 +97,15 @@
   ],
   "architect": "Unknown",
   "yearOpened": 1997,
-  "rankings": []
+  "rankings": [],
+  "contact": {
+    "address": "2501 15th Avenue West, Seattle, WA 98119",
+    "phone": "(206) 285-2200",
+    "website": "https://www.premiergc.com/-interbay-golf-center"
+  },
+  "amenities": [
+    "pro shop",
+    "driving range",
+    "cafe"
+  ]
 }

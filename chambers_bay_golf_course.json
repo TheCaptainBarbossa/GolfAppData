@@ -117,5 +117,15 @@
   "yearOpened": 2007,
   "rankings": [
     "Top 100 Courses 2024"
+  ],
+  "contact": {
+    "address": "6320 Grandview Drive West, University Place, WA 98467",
+    "phone": "(253) 460-4653",
+    "website": "https://chambersbaygolf.com"
+  },
+  "amenities": [
+    "pro shop",
+    "practice range",
+    "restaurant"
   ]
 }

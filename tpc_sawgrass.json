@@ -117,5 +117,15 @@
   "yearOpened": 1980,
   "rankings": [
     "Top 100 Courses 2024"
+  ],
+  "contact": {
+    "address": "110 Championship Way, Ponte Vedra Beach, FL 32082",
+    "phone": "(904) 273-3235",
+    "website": "https://tpc.com/sawgrass/"
+  },
+  "amenities": [
+    "pro shop",
+    "practice facility",
+    "restaurant"
   ]
 }

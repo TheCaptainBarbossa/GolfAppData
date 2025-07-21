@@ -115,5 +115,15 @@
   "exportDate": "2025-07-11T06:17:25.472Z",
   "architect": "H. Chandler Egan",
   "yearOpened": 1940,
-  "rankings": []
+  "rankings": [],
+  "contact": {
+    "address": "4470 35th Ave SW, Seattle, WA 98126",
+    "phone": "(206) 935-5187",
+    "website": "https://www.premiergc.com/-west-seattle-golf-course"
+  },
+  "amenities": [
+    "pro shop",
+    "practice range",
+    "cafe"
+  ]
 }
