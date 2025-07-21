@@ -97,5 +97,23 @@
   ],
   "architect": "Unknown",
   "yearOpened": 1997,
-  "rankings": []
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.1,
+      "precipIn": 0.1
+    },
+    "summer": {
+      "tempF": 65.1,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 52.6,
+      "precipIn": 0.13
+    },
+    "winter": {
+      "tempF": 42.2,
+      "precipIn": 0.17
+    }
+  }
 }
