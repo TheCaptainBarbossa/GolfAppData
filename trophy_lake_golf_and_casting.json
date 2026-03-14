@@ -1,0 +1,137 @@
+{
+  "courseName": "Trophy Lake Golf & Casting",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.4742,
+      "longitude": -122.7035
+    },
+    {
+      "hole": 2,
+      "par": 5,
+      "latitude": 47.4733,
+      "longitude": -122.7026
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 47.4722,
+      "longitude": -122.7018
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.4712,
+      "longitude": -122.7028
+    },
+    {
+      "hole": 5,
+      "par": 3,
+      "latitude": 47.4703,
+      "longitude": -122.7039
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.4713,
+      "longitude": -122.7050
+    },
+    {
+      "hole": 7,
+      "par": 5,
+      "latitude": 47.4723,
+      "longitude": -122.7060
+    },
+    {
+      "hole": 8,
+      "par": 4,
+      "latitude": 47.4732,
+      "longitude": -122.7071
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.4741,
+      "longitude": -122.7062
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.4750,
+      "longitude": -122.7052
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.4758,
+      "longitude": -122.7063
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.4765,
+      "longitude": -122.7074
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.4758,
+      "longitude": -122.7085
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.4749,
+      "longitude": -122.7078
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.4741,
+      "longitude": -122.7087
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 47.4732,
+      "longitude": -122.7079
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 47.4723,
+      "longitude": -122.7088
+    },
+    {
+      "hole": 18,
+      "par": 5,
+      "latitude": 47.4731,
+      "longitude": -122.7098
+    }
+  ],
+  "city": "Port Orchard",
+  "state": "WA",
+  "exportDate": "2026-03-14T22:00:00.000Z",
+  "architect": "John Fought",
+  "yearOpened": 1999,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.13
+    },
+    "summer": {
+      "tempF": 64.0,
+      "precipIn": 0.04
+    },
+    "fall": {
+      "tempF": 51.5,
+      "precipIn": 0.15
+    },
+    "winter": {
+      "tempF": 42.0,
+      "precipIn": 0.19
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "courseName": "Meadow Park Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.2413,
+      "longitude": -122.5068
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.2421,
+      "longitude": -122.5058
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.2430,
+      "longitude": -122.5049
+    },
+    {
+      "hole": 4,
+      "par": 3,
+      "latitude": 47.2439,
+      "longitude": -122.5058
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.2447,
+      "longitude": -122.5068
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.2455,
+      "longitude": -122.5079
+    },
+    {
+      "hole": 7,
+      "par": 5,
+      "latitude": 47.2446,
+      "longitude": -122.5090
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.2436,
+      "longitude": -122.5081
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.2427,
+      "longitude": -122.5090
+    },
+    {
+      "hole": 10,
+      "par": 5,
+      "latitude": 47.2418,
+      "longitude": -122.5081
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.2409,
+      "longitude": -122.5090
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.2400,
+      "longitude": -122.5099
+    },
+    {
+      "hole": 13,
+      "par": 3,
+      "latitude": 47.2391,
+      "longitude": -122.5090
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.2382,
+      "longitude": -122.5081
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.2391,
+      "longitude": -122.5071
+    },
+    {
+      "hole": 16,
+      "par": 5,
+      "latitude": 47.2400,
+      "longitude": -122.5061
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 47.2409,
+      "longitude": -122.5071
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.2418,
+      "longitude": -122.5062
+    }
+  ],
+  "city": "Tacoma",
+  "state": "WA",
+  "exportDate": "2026-03-14T22:00:00.000Z",
+  "architect": "John Ball",
+  "yearOpened": 1915,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.11
+    },
+    "summer": {
+      "tempF": 65.5,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 52.0,
+      "precipIn": 0.14
+    },
+    "winter": {
+      "tempF": 42.5,
+      "precipIn": 0.17
+    }
+  }
+}

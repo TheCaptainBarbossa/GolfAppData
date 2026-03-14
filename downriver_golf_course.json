@@ -1,0 +1,137 @@
+{
+  "courseName": "Downriver Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 5,
+      "latitude": 47.6752,
+      "longitude": -117.4261
+    },
+    {
+      "hole": 2,
+      "par": 3,
+      "latitude": 47.6744,
+      "longitude": -117.4274
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.6734,
+      "longitude": -117.4267
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.6726,
+      "longitude": -117.4255
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.6717,
+      "longitude": -117.4245
+    },
+    {
+      "hole": 6,
+      "par": 3,
+      "latitude": 47.6709,
+      "longitude": -117.4236
+    },
+    {
+      "hole": 7,
+      "par": 5,
+      "latitude": 47.6716,
+      "longitude": -117.4224
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.6726,
+      "longitude": -117.4217
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.6736,
+      "longitude": -117.4225
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.6746,
+      "longitude": -117.4234
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.6757,
+      "longitude": -117.4242
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 47.6765,
+      "longitude": -117.4231
+    },
+    {
+      "hole": 13,
+      "par": 5,
+      "latitude": 47.6773,
+      "longitude": -117.4219
+    },
+    {
+      "hole": 14,
+      "par": 5,
+      "latitude": 47.6769,
+      "longitude": -117.4205
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.6760,
+      "longitude": -117.4195
+    },
+    {
+      "hole": 16,
+      "par": 3,
+      "latitude": 47.6752,
+      "longitude": -117.4204
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.6744,
+      "longitude": -117.4215
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.6753,
+      "longitude": -117.4228
+    }
+  ],
+  "city": "Spokane",
+  "state": "WA",
+  "exportDate": "2026-03-14T22:00:00.000Z",
+  "architect": "Unknown",
+  "yearOpened": 1916,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.07
+    },
+    "summer": {
+      "tempF": 72.0,
+      "precipIn": 0.02
+    },
+    "fall": {
+      "tempF": 51.0,
+      "precipIn": 0.09
+    },
+    "winter": {
+      "tempF": 32.5,
+      "precipIn": 0.10
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "courseName": "Washington National Golf Club",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 5,
+      "latitude": 47.3091,
+      "longitude": -122.1514
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.3082,
+      "longitude": -122.1523
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.3072,
+      "longitude": -122.1514
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.3063,
+      "longitude": -122.1503
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.3055,
+      "longitude": -122.1493
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.3047,
+      "longitude": -122.1481
+    },
+    {
+      "hole": 7,
+      "par": 5,
+      "latitude": 47.3056,
+      "longitude": -122.1469
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.3066,
+      "longitude": -122.1461
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.3076,
+      "longitude": -122.1470
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.3085,
+      "longitude": -122.1479
+    },
+    {
+      "hole": 11,
+      "par": 3,
+      "latitude": 47.3093,
+      "longitude": -122.1468
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.3101,
+      "longitude": -122.1457
+    },
+    {
+      "hole": 13,
+      "par": 5,
+      "latitude": 47.3109,
+      "longitude": -122.1466
+    },
+    {
+      "hole": 14,
+      "par": 3,
+      "latitude": 47.3115,
+      "longitude": -122.1478
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.3107,
+      "longitude": -122.1489
+    },
+    {
+      "hole": 16,
+      "par": 3,
+      "latitude": 47.3098,
+      "longitude": -122.1499
+    },
+    {
+      "hole": 17,
+      "par": 5,
+      "latitude": 47.3088,
+      "longitude": -122.1506
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.3080,
+      "longitude": -122.1497
+    }
+  ],
+  "city": "Auburn",
+  "state": "WA",
+  "exportDate": "2026-03-14T22:00:00.000Z",
+  "architect": "John Fought",
+  "yearOpened": 2000,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.8,
+      "precipIn": 0.11
+    },
+    "summer": {
+      "tempF": 65.8,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 52.3,
+      "precipIn": 0.14
+    },
+    "winter": {
+      "tempF": 42.0,
+      "precipIn": 0.18
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "courseName": "Semiahmoo Golf & Country Club",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 5,
+      "latitude": 48.9886,
+      "longitude": -122.7804
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 48.9877,
+      "longitude": -122.7814
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 48.9867,
+      "longitude": -122.7806
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 48.9857,
+      "longitude": -122.7796
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 48.9847,
+      "longitude": -122.7786
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 48.9838,
+      "longitude": -122.7776
+    },
+    {
+      "hole": 7,
+      "par": 3,
+      "latitude": 48.9848,
+      "longitude": -122.7765
+    },
+    {
+      "hole": 8,
+      "par": 4,
+      "latitude": 48.9858,
+      "longitude": -122.7755
+    },
+    {
+      "hole": 9,
+      "par": 5,
+      "latitude": 48.9868,
+      "longitude": -122.7765
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 48.9878,
+      "longitude": -122.7775
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 48.9887,
+      "longitude": -122.7765
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 48.9896,
+      "longitude": -122.7754
+    },
+    {
+      "hole": 13,
+      "par": 5,
+      "latitude": 48.9905,
+      "longitude": -122.7763
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 48.9913,
+      "longitude": -122.7774
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 48.9904,
+      "longitude": -122.7785
+    },
+    {
+      "hole": 16,
+      "par": 3,
+      "latitude": 48.9894,
+      "longitude": -122.7796
+    },
+    {
+      "hole": 17,
+      "par": 5,
+      "latitude": 48.9884,
+      "longitude": -122.7787
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 48.9875,
+      "longitude": -122.7797
+    }
+  ],
+  "city": "Blaine",
+  "state": "WA",
+  "exportDate": "2026-03-14T22:00:00.000Z",
+  "architect": "Arnold Palmer",
+  "yearOpened": 1986,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 47.0,
+      "precipIn": 0.12
+    },
+    "summer": {
+      "tempF": 62.0,
+      "precipIn": 0.04
+    },
+    "fall": {
+      "tempF": 50.0,
+      "precipIn": 0.14
+    },
+    "winter": {
+      "tempF": 39.5,
+      "precipIn": 0.19
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "courseName": "Gold Mountain Golf Club (Olympic Course)",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.5228,
+      "longitude": -122.7487
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.5239,
+      "longitude": -122.7493
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.5248,
+      "longitude": -122.7504
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.5251,
+      "longitude": -122.7518
+    },
+    {
+      "hole": 5,
+      "par": 3,
+      "latitude": 47.5246,
+      "longitude": -122.7530
+    },
+    {
+      "hole": 6,
+      "par": 5,
+      "latitude": 47.5235,
+      "longitude": -122.7542
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.5222,
+      "longitude": -122.7551
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.5210,
+      "longitude": -122.7543
+    },
+    {
+      "hole": 9,
+      "par": 5,
+      "latitude": 47.5201,
+      "longitude": -122.7528
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.5198,
+      "longitude": -122.7511
+    },
+    {
+      "hole": 11,
+      "par": 5,
+      "latitude": 47.5194,
+      "longitude": -122.7496
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 47.5205,
+      "longitude": -122.7480
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.5214,
+      "longitude": -122.7468
+    },
+    {
+      "hole": 14,
+      "par": 5,
+      "latitude": 47.5224,
+      "longitude": -122.7459
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.5232,
+      "longitude": -122.7468
+    },
+    {
+      "hole": 16,
+      "par": 3,
+      "latitude": 47.5227,
+      "longitude": -122.7479
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.5221,
+      "longitude": -122.7488
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.5218,
+      "longitude": -122.7498
+    }
+  ],
+  "city": "Bremerton",
+  "state": "WA",
+  "exportDate": "2026-03-14T22:00:00.000Z",
+  "architect": "John F. Harbottle III",
+  "yearOpened": 1996,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.13
+    },
+    "summer": {
+      "tempF": 64.0,
+      "precipIn": 0.04
+    },
+    "fall": {
+      "tempF": 51.5,
+      "precipIn": 0.15
+    },
+    "winter": {
+      "tempF": 42.0,
+      "precipIn": 0.19
+    }
+  }
+}

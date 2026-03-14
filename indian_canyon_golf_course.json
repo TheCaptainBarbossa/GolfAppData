@@ -1,0 +1,137 @@
+{
+  "courseName": "Indian Canyon Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 5,
+      "latitude": 47.6404,
+      "longitude": -117.4731
+    },
+    {
+      "hole": 2,
+      "par": 5,
+      "latitude": 47.6396,
+      "longitude": -117.4718
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.6385,
+      "longitude": -117.4709
+    },
+    {
+      "hole": 4,
+      "par": 3,
+      "latitude": 47.6375,
+      "longitude": -117.4719
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.6366,
+      "longitude": -117.4730
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.6357,
+      "longitude": -117.4721
+    },
+    {
+      "hole": 7,
+      "par": 3,
+      "latitude": 47.6349,
+      "longitude": -117.4710
+    },
+    {
+      "hole": 8,
+      "par": 4,
+      "latitude": 47.6358,
+      "longitude": -117.4699
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.6368,
+      "longitude": -117.4690
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.6378,
+      "longitude": -117.4700
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.6387,
+      "longitude": -117.4691
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 47.6395,
+      "longitude": -117.4681
+    },
+    {
+      "hole": 13,
+      "par": 5,
+      "latitude": 47.6404,
+      "longitude": -117.4690
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.6413,
+      "longitude": -117.4701
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.6421,
+      "longitude": -117.4712
+    },
+    {
+      "hole": 16,
+      "par": 3,
+      "latitude": 47.6413,
+      "longitude": -117.4722
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.6404,
+      "longitude": -117.4715
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.6396,
+      "longitude": -117.4724
+    }
+  ],
+  "city": "Spokane",
+  "state": "WA",
+  "exportDate": "2026-03-14T22:00:00.000Z",
+  "architect": "H. Chandler Egan",
+  "yearOpened": 1935,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.07
+    },
+    "summer": {
+      "tempF": 72.0,
+      "precipIn": 0.02
+    },
+    "fall": {
+      "tempF": 51.0,
+      "precipIn": 0.09
+    },
+    "winter": {
+      "tempF": 32.5,
+      "precipIn": 0.10
+    }
+  }
+}
