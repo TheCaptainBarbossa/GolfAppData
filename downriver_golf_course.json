@@ -4,110 +4,110 @@
     {
       "hole": 1,
       "par": 5,
-      "latitude": 47.6752,
-      "longitude": -117.4261
+      "latitude": 47.6838,
+      "longitude": -117.4720
     },
     {
       "hole": 2,
       "par": 3,
-      "latitude": 47.6744,
-      "longitude": -117.4274
+      "latitude": 47.6830,
+      "longitude": -117.4733
     },
     {
       "hole": 3,
       "par": 4,
-      "latitude": 47.6734,
-      "longitude": -117.4267
+      "latitude": 47.6820,
+      "longitude": -117.4726
     },
     {
       "hole": 4,
       "par": 4,
-      "latitude": 47.6726,
-      "longitude": -117.4255
+      "latitude": 47.6812,
+      "longitude": -117.4714
     },
     {
       "hole": 5,
       "par": 4,
-      "latitude": 47.6717,
-      "longitude": -117.4245
+      "latitude": 47.6803,
+      "longitude": -117.4704
     },
     {
       "hole": 6,
       "par": 3,
-      "latitude": 47.6709,
-      "longitude": -117.4236
+      "latitude": 47.6795,
+      "longitude": -117.4695
     },
     {
       "hole": 7,
       "par": 5,
-      "latitude": 47.6716,
-      "longitude": -117.4224
+      "latitude": 47.6802,
+      "longitude": -117.4683
     },
     {
       "hole": 8,
       "par": 3,
-      "latitude": 47.6726,
-      "longitude": -117.4217
+      "latitude": 47.6812,
+      "longitude": -117.4676
     },
     {
       "hole": 9,
       "par": 4,
-      "latitude": 47.6736,
-      "longitude": -117.4225
+      "latitude": 47.6822,
+      "longitude": -117.4684
     },
     {
       "hole": 10,
       "par": 4,
-      "latitude": 47.6746,
-      "longitude": -117.4234
+      "latitude": 47.6832,
+      "longitude": -117.4693
     },
     {
       "hole": 11,
       "par": 4,
-      "latitude": 47.6757,
-      "longitude": -117.4242
+      "latitude": 47.6843,
+      "longitude": -117.4701
     },
     {
       "hole": 12,
       "par": 3,
-      "latitude": 47.6765,
-      "longitude": -117.4231
+      "latitude": 47.6851,
+      "longitude": -117.4690
     },
     {
       "hole": 13,
       "par": 5,
-      "latitude": 47.6773,
-      "longitude": -117.4219
+      "latitude": 47.6859,
+      "longitude": -117.4678
     },
     {
       "hole": 14,
       "par": 5,
-      "latitude": 47.6769,
-      "longitude": -117.4205
+      "latitude": 47.6855,
+      "longitude": -117.4664
     },
     {
       "hole": 15,
       "par": 4,
-      "latitude": 47.6760,
-      "longitude": -117.4195
+      "latitude": 47.6846,
+      "longitude": -117.4654
     },
     {
       "hole": 16,
-      "par": 3,
-      "latitude": 47.6752,
-      "longitude": -117.4204
+      "par": 4,
+      "latitude": 47.6838,
+      "longitude": -117.4663
     },
     {
       "hole": 17,
-      "par": 4,
-      "latitude": 47.6744,
-      "longitude": -117.4215
+      "par": 3,
+      "latitude": 47.6830,
+      "longitude": -117.4674
     },
     {
       "hole": 18,
       "par": 4,
-      "latitude": 47.6753,
-      "longitude": -117.4228
+      "latitude": 47.6839,
+      "longitude": -117.4687
     }
   ],
   "city": "Spokane",

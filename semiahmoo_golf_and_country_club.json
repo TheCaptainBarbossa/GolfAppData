@@ -3,110 +3,110 @@
   "holes": [
     {
       "hole": 1,
-      "par": 5,
-      "latitude": 48.9886,
+      "par": 4,
+      "latitude": 48.9594,
       "longitude": -122.7804
     },
     {
       "hole": 2,
       "par": 4,
-      "latitude": 48.9877,
+      "latitude": 48.9585,
       "longitude": -122.7814
     },
     {
       "hole": 3,
       "par": 3,
-      "latitude": 48.9867,
+      "latitude": 48.9575,
       "longitude": -122.7806
     },
     {
       "hole": 4,
-      "par": 4,
-      "latitude": 48.9857,
+      "par": 5,
+      "latitude": 48.9565,
       "longitude": -122.7796
     },
     {
       "hole": 5,
       "par": 4,
-      "latitude": 48.9847,
+      "latitude": 48.9555,
       "longitude": -122.7786
     },
     {
       "hole": 6,
-      "par": 4,
-      "latitude": 48.9838,
+      "par": 5,
+      "latitude": 48.9546,
       "longitude": -122.7776
     },
     {
       "hole": 7,
-      "par": 3,
-      "latitude": 48.9848,
+      "par": 4,
+      "latitude": 48.9556,
       "longitude": -122.7765
     },
     {
       "hole": 8,
       "par": 4,
-      "latitude": 48.9858,
+      "latitude": 48.9566,
       "longitude": -122.7755
     },
     {
       "hole": 9,
-      "par": 5,
-      "latitude": 48.9868,
+      "par": 3,
+      "latitude": 48.9576,
       "longitude": -122.7765
     },
     {
       "hole": 10,
       "par": 4,
-      "latitude": 48.9878,
+      "latitude": 48.9586,
       "longitude": -122.7775
     },
     {
       "hole": 11,
       "par": 4,
-      "latitude": 48.9887,
+      "latitude": 48.9595,
       "longitude": -122.7765
     },
     {
       "hole": 12,
       "par": 3,
-      "latitude": 48.9896,
+      "latitude": 48.9604,
       "longitude": -122.7754
     },
     {
       "hole": 13,
       "par": 5,
-      "latitude": 48.9905,
+      "latitude": 48.9613,
       "longitude": -122.7763
     },
     {
       "hole": 14,
       "par": 4,
-      "latitude": 48.9913,
+      "latitude": 48.9621,
       "longitude": -122.7774
     },
     {
       "hole": 15,
       "par": 4,
-      "latitude": 48.9904,
+      "latitude": 48.9612,
       "longitude": -122.7785
     },
     {
       "hole": 16,
       "par": 3,
-      "latitude": 48.9894,
+      "latitude": 48.9602,
       "longitude": -122.7796
     },
     {
       "hole": 17,
-      "par": 5,
-      "latitude": 48.9884,
+      "par": 4,
+      "latitude": 48.9592,
       "longitude": -122.7787
     },
     {
       "hole": 18,
       "par": 4,
-      "latitude": 48.9875,
+      "latitude": 48.9583,
       "longitude": -122.7797
     }
   ],
