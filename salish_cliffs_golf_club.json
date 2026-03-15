@@ -1,0 +1,137 @@
+{
+  "courseName": "Salish Cliffs Golf Club",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 5,
+      "latitude": 47.1240,
+      "longitude": -123.1130
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.1230,
+      "longitude": -123.1120
+    },
+    {
+      "hole": 3,
+      "par": 3,
+      "latitude": 47.1220,
+      "longitude": -123.1110
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.1210,
+      "longitude": -123.1120
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.1200,
+      "longitude": -123.1110
+    },
+    {
+      "hole": 6,
+      "par": 3,
+      "latitude": 47.1190,
+      "longitude": -123.1100
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.1180,
+      "longitude": -123.1090
+    },
+    {
+      "hole": 8,
+      "par": 5,
+      "latitude": 47.1170,
+      "longitude": -123.1080
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.1160,
+      "longitude": -123.1070
+    },
+    {
+      "hole": 10,
+      "par": 5,
+      "latitude": 47.1160,
+      "longitude": -123.1050
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.1170,
+      "longitude": -123.1040
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.1180,
+      "longitude": -123.1050
+    },
+    {
+      "hole": 13,
+      "par": 3,
+      "latitude": 47.1190,
+      "longitude": -123.1040
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.1200,
+      "longitude": -123.1050
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.1210,
+      "longitude": -123.1040
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 47.1220,
+      "longitude": -123.1050
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 47.1230,
+      "longitude": -123.1060
+    },
+    {
+      "hole": 18,
+      "par": 5,
+      "latitude": 47.1220,
+      "longitude": -123.1070
+    }
+  ],
+  "city": "Shelton",
+  "state": "WA",
+  "exportDate": "2026-03-15T00:00:00.000Z",
+  "architect": "Gene Bates",
+  "yearOpened": 2011,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.0,
+      "precipIn": 0.12
+    },
+    "summer": {
+      "tempF": 64.0,
+      "precipIn": 0.04
+    },
+    "fall": {
+      "tempF": 51.0,
+      "precipIn": 0.15
+    },
+    "winter": {
+      "tempF": 42.0,
+      "precipIn": 0.20
+    }
+  }
+}

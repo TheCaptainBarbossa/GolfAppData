@@ -1,0 +1,137 @@
+{
+  "courseName": "Riverbend Golf Complex",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.3840,
+      "longitude": -122.2680
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.3830,
+      "longitude": -122.2670
+    },
+    {
+      "hole": 3,
+      "par": 5,
+      "latitude": 47.3820,
+      "longitude": -122.2660
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.3810,
+      "longitude": -122.2670
+    },
+    {
+      "hole": 5,
+      "par": 3,
+      "latitude": 47.3800,
+      "longitude": -122.2660
+    },
+    {
+      "hole": 6,
+      "par": 5,
+      "latitude": 47.3790,
+      "longitude": -122.2650
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.3780,
+      "longitude": -122.2640
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.3770,
+      "longitude": -122.2630
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.3760,
+      "longitude": -122.2620
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.3760,
+      "longitude": -122.2600
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.3770,
+      "longitude": -122.2590
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.3780,
+      "longitude": -122.2600
+    },
+    {
+      "hole": 13,
+      "par": 3,
+      "latitude": 47.3790,
+      "longitude": -122.2590
+    },
+    {
+      "hole": 14,
+      "par": 5,
+      "latitude": 47.3800,
+      "longitude": -122.2600
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.3810,
+      "longitude": -122.2590
+    },
+    {
+      "hole": 16,
+      "par": 3,
+      "latitude": 47.3820,
+      "longitude": -122.2600
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.3830,
+      "longitude": -122.2610
+    },
+    {
+      "hole": 18,
+      "par": 5,
+      "latitude": 47.3820,
+      "longitude": -122.2620
+    }
+  ],
+  "city": "Kent",
+  "state": "WA",
+  "exportDate": "2026-03-15T00:00:00.000Z",
+  "architect": "John Steidel",
+  "yearOpened": 1989,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 50.0,
+      "precipIn": 0.11
+    },
+    "summer": {
+      "tempF": 66.0,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 52.0,
+      "precipIn": 0.14
+    },
+    "winter": {
+      "tempF": 41.0,
+      "precipIn": 0.19
+    }
+  }
+}

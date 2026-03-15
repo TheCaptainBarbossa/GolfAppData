@@ -1,0 +1,137 @@
+{
+  "courseName": "Madrona Links Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 5,
+      "latitude": 47.2940,
+      "longitude": -122.5720
+    },
+    {
+      "hole": 2,
+      "par": 3,
+      "latitude": 47.2930,
+      "longitude": -122.5710
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.2920,
+      "longitude": -122.5700
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.2910,
+      "longitude": -122.5710
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.2900,
+      "longitude": -122.5700
+    },
+    {
+      "hole": 6,
+      "par": 3,
+      "latitude": 47.2895,
+      "longitude": -122.5690
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.2900,
+      "longitude": -122.5680
+    },
+    {
+      "hole": 8,
+      "par": 5,
+      "latitude": 47.2910,
+      "longitude": -122.5670
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.2920,
+      "longitude": -122.5680
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.2930,
+      "longitude": -122.5670
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.2940,
+      "longitude": -122.5680
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 47.2950,
+      "longitude": -122.5670
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.2945,
+      "longitude": -122.5660
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.2935,
+      "longitude": -122.5650
+    },
+    {
+      "hole": 15,
+      "par": 5,
+      "latitude": 47.2925,
+      "longitude": -122.5660
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 47.2915,
+      "longitude": -122.5650
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 47.2925,
+      "longitude": -122.5640
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.2935,
+      "longitude": -122.5650
+    }
+  ],
+  "city": "Gig Harbor",
+  "state": "WA",
+  "exportDate": "2026-03-15T00:00:00.000Z",
+  "architect": "Ken Tyson",
+  "yearOpened": 1978,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.11
+    },
+    "summer": {
+      "tempF": 65.5,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 52.0,
+      "precipIn": 0.14
+    },
+    "winter": {
+      "tempF": 42.5,
+      "precipIn": 0.17
+    }
+  }
+}

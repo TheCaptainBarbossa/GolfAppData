@@ -1,0 +1,137 @@
+{
+  "courseName": "Esmeralda Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.6930,
+      "longitude": -117.3530
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.6920,
+      "longitude": -117.3520
+    },
+    {
+      "hole": 3,
+      "par": 5,
+      "latitude": 47.6910,
+      "longitude": -117.3510
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.6900,
+      "longitude": -117.3520
+    },
+    {
+      "hole": 5,
+      "par": 3,
+      "latitude": 47.6890,
+      "longitude": -117.3510
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.6880,
+      "longitude": -117.3500
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.6870,
+      "longitude": -117.3490
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.6860,
+      "longitude": -117.3480
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.6850,
+      "longitude": -117.3470
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.6850,
+      "longitude": -117.3450
+    },
+    {
+      "hole": 11,
+      "par": 4,
+      "latitude": 47.6860,
+      "longitude": -117.3440
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 47.6870,
+      "longitude": -117.3450
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.6880,
+      "longitude": -117.3440
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.6890,
+      "longitude": -117.3450
+    },
+    {
+      "hole": 15,
+      "par": 5,
+      "latitude": 47.6900,
+      "longitude": -117.3440
+    },
+    {
+      "hole": 16,
+      "par": 3,
+      "latitude": 47.6910,
+      "longitude": -117.3450
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.6920,
+      "longitude": -117.3460
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.6910,
+      "longitude": -117.3470
+    }
+  ],
+  "city": "Spokane",
+  "state": "WA",
+  "exportDate": "2026-03-15T00:00:00.000Z",
+  "architect": "Frank James",
+  "yearOpened": 1956,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.07
+    },
+    "summer": {
+      "tempF": 72.0,
+      "precipIn": 0.02
+    },
+    "fall": {
+      "tempF": 51.0,
+      "precipIn": 0.09
+    },
+    "winter": {
+      "tempF": 32.5,
+      "precipIn": 0.10
+    }
+  }
+}

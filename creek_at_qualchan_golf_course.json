@@ -1,0 +1,137 @@
+{
+  "courseName": "The Creek at Qualchan Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.6060,
+      "longitude": -117.4120
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.6050,
+      "longitude": -117.4110
+    },
+    {
+      "hole": 3,
+      "par": 5,
+      "latitude": 47.6040,
+      "longitude": -117.4100
+    },
+    {
+      "hole": 4,
+      "par": 3,
+      "latitude": 47.6030,
+      "longitude": -117.4110
+    },
+    {
+      "hole": 5,
+      "par": 5,
+      "latitude": 47.6020,
+      "longitude": -117.4100
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.6010,
+      "longitude": -117.4090
+    },
+    {
+      "hole": 7,
+      "par": 3,
+      "latitude": 47.6000,
+      "longitude": -117.4080
+    },
+    {
+      "hole": 8,
+      "par": 4,
+      "latitude": 47.5990,
+      "longitude": -117.4070
+    },
+    {
+      "hole": 9,
+      "par": 4,
+      "latitude": 47.5980,
+      "longitude": -117.4060
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.5980,
+      "longitude": -117.4040
+    },
+    {
+      "hole": 11,
+      "par": 3,
+      "latitude": 47.5990,
+      "longitude": -117.4030
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.6000,
+      "longitude": -117.4040
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.6010,
+      "longitude": -117.4030
+    },
+    {
+      "hole": 14,
+      "par": 3,
+      "latitude": 47.6020,
+      "longitude": -117.4040
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.6030,
+      "longitude": -117.4030
+    },
+    {
+      "hole": 16,
+      "par": 5,
+      "latitude": 47.6040,
+      "longitude": -117.4040
+    },
+    {
+      "hole": 17,
+      "par": 4,
+      "latitude": 47.6050,
+      "longitude": -117.4050
+    },
+    {
+      "hole": 18,
+      "par": 5,
+      "latitude": 47.6040,
+      "longitude": -117.4060
+    }
+  ],
+  "city": "Spokane",
+  "state": "WA",
+  "exportDate": "2026-03-15T00:00:00.000Z",
+  "architect": "Bill Robinson",
+  "yearOpened": 1993,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.07
+    },
+    "summer": {
+      "tempF": 72.0,
+      "precipIn": 0.02
+    },
+    "fall": {
+      "tempF": 51.0,
+      "precipIn": 0.09
+    },
+    "winter": {
+      "tempF": 32.5,
+      "precipIn": 0.10
+    }
+  }
+}

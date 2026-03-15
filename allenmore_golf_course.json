@@ -1,0 +1,137 @@
+{
+  "courseName": "Allenmore Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.2420,
+      "longitude": -122.4800
+    },
+    {
+      "hole": 2,
+      "par": 3,
+      "latitude": 47.2430,
+      "longitude": -122.4790
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.2440,
+      "longitude": -122.4780
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.2450,
+      "longitude": -122.4770
+    },
+    {
+      "hole": 5,
+      "par": 4,
+      "latitude": 47.2440,
+      "longitude": -122.4760
+    },
+    {
+      "hole": 6,
+      "par": 5,
+      "latitude": 47.2430,
+      "longitude": -122.4750
+    },
+    {
+      "hole": 7,
+      "par": 4,
+      "latitude": 47.2420,
+      "longitude": -122.4760
+    },
+    {
+      "hole": 8,
+      "par": 3,
+      "latitude": 47.2410,
+      "longitude": -122.4750
+    },
+    {
+      "hole": 9,
+      "par": 5,
+      "latitude": 47.2400,
+      "longitude": -122.4760
+    },
+    {
+      "hole": 10,
+      "par": 4,
+      "latitude": 47.2390,
+      "longitude": -122.4770
+    },
+    {
+      "hole": 11,
+      "par": 5,
+      "latitude": 47.2380,
+      "longitude": -122.4760
+    },
+    {
+      "hole": 12,
+      "par": 3,
+      "latitude": 47.2370,
+      "longitude": -122.4750
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.2360,
+      "longitude": -122.4760
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.2350,
+      "longitude": -122.4770
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.2360,
+      "longitude": -122.4780
+    },
+    {
+      "hole": 16,
+      "par": 4,
+      "latitude": 47.2370,
+      "longitude": -122.4790
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 47.2380,
+      "longitude": -122.4780
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.2390,
+      "longitude": -122.4790
+    }
+  ],
+  "city": "Tacoma",
+  "state": "WA",
+  "exportDate": "2026-03-15T00:00:00.000Z",
+  "architect": "Unknown",
+  "yearOpened": 1931,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.11
+    },
+    "summer": {
+      "tempF": 65.5,
+      "precipIn": 0.03
+    },
+    "fall": {
+      "tempF": 52.0,
+      "precipIn": 0.14
+    },
+    "winter": {
+      "tempF": 42.5,
+      "precipIn": 0.17
+    }
+  }
+}

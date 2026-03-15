@@ -1,0 +1,137 @@
+{
+  "courseName": "Latah Creek Golf Course",
+  "holes": [
+    {
+      "hole": 1,
+      "par": 4,
+      "latitude": 47.5800,
+      "longitude": -117.4180
+    },
+    {
+      "hole": 2,
+      "par": 4,
+      "latitude": 47.5790,
+      "longitude": -117.4170
+    },
+    {
+      "hole": 3,
+      "par": 4,
+      "latitude": 47.5780,
+      "longitude": -117.4160
+    },
+    {
+      "hole": 4,
+      "par": 4,
+      "latitude": 47.5770,
+      "longitude": -117.4150
+    },
+    {
+      "hole": 5,
+      "par": 5,
+      "latitude": 47.5760,
+      "longitude": -117.4160
+    },
+    {
+      "hole": 6,
+      "par": 4,
+      "latitude": 47.5750,
+      "longitude": -117.4170
+    },
+    {
+      "hole": 7,
+      "par": 3,
+      "latitude": 47.5740,
+      "longitude": -117.4160
+    },
+    {
+      "hole": 8,
+      "par": 5,
+      "latitude": 47.5730,
+      "longitude": -117.4150
+    },
+    {
+      "hole": 9,
+      "par": 3,
+      "latitude": 47.5720,
+      "longitude": -117.4140
+    },
+    {
+      "hole": 10,
+      "par": 5,
+      "latitude": 47.5720,
+      "longitude": -117.4120
+    },
+    {
+      "hole": 11,
+      "par": 3,
+      "latitude": 47.5730,
+      "longitude": -117.4110
+    },
+    {
+      "hole": 12,
+      "par": 4,
+      "latitude": 47.5740,
+      "longitude": -117.4100
+    },
+    {
+      "hole": 13,
+      "par": 4,
+      "latitude": 47.5750,
+      "longitude": -117.4110
+    },
+    {
+      "hole": 14,
+      "par": 4,
+      "latitude": 47.5760,
+      "longitude": -117.4100
+    },
+    {
+      "hole": 15,
+      "par": 4,
+      "latitude": 47.5770,
+      "longitude": -117.4110
+    },
+    {
+      "hole": 16,
+      "par": 5,
+      "latitude": 47.5780,
+      "longitude": -117.4100
+    },
+    {
+      "hole": 17,
+      "par": 3,
+      "latitude": 47.5770,
+      "longitude": -117.4120
+    },
+    {
+      "hole": 18,
+      "par": 4,
+      "latitude": 47.5760,
+      "longitude": -117.4130
+    }
+  ],
+  "city": "Spokane",
+  "state": "WA",
+  "exportDate": "2026-03-15T00:00:00.000Z",
+  "architect": "Robert E. Baldock & Robert L. Baldock",
+  "yearOpened": 1969,
+  "rankings": [],
+  "climate": {
+    "spring": {
+      "tempF": 49.5,
+      "precipIn": 0.07
+    },
+    "summer": {
+      "tempF": 72.0,
+      "precipIn": 0.02
+    },
+    "fall": {
+      "tempF": 51.0,
+      "precipIn": 0.09
+    },
+    "winter": {
+      "tempF": 32.5,
+      "precipIn": 0.10
+    }
+  }
+}
